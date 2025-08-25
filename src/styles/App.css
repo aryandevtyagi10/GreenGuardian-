@@ -1,0 +1,28 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #e8f5e9; /* Light green background */
+  color: #2e7d32; /* Dark green text */
+}
+
+.App {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: #1b5e20; /* Darker green for headings */
+}
+
+.btn-primary {
+  background-color: #4caf50; /* Green button */
+  border-color: #4caf50;
+}
+
+.btn-primary:hover {
+  background-color: #388e3c;
+  border-color: #388e3c;
+}
+
+.card {
+  background-color: #ffffff; /* White card background */
+  border: 1px solid #c8e6c9; /* Light green border */
+}
